@@ -1,0 +1,5 @@
+D:\Development\Sprite Grid\SpriteGridTest\obj\Debug\net8.0\SpriteGridTest.csproj.AssemblyReference.cache
+D:\Development\Sprite Grid\SpriteGridTest\obj\Debug\net8.0\SpriteGridTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Sprite Grid\SpriteGridTest\obj\Debug\net8.0\SpriteGridTest.AssemblyInfoInputs.cache
+D:\Development\Sprite Grid\SpriteGridTest\obj\Debug\net8.0\SpriteGridTest.AssemblyInfo.cs
+D:\Development\Sprite Grid\SpriteGridTest\obj\Debug\net8.0\SpriteGridTest.csproj.CoreCompileInputs.cache

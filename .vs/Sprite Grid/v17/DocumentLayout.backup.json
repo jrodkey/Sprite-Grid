@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\Sprite Grid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|D:\\Development\\Sprite Grid\\assets\\scripts\\game\\grid\\spritegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\grid\\spritegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|d:\\development\\sprite grid\\assets\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|D:\\Development\\Sprite Grid\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Development\\Sprite Grid\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|D:\\Development\\Sprite Grid\\assets\\scripts\\controllers\\gameflowcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\gameflowcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|D:\\Development\\Sprite Grid\\assets\\scripts\\game\\ui\\logbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\ui\\logbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|D:\\Development\\Sprite Grid\\assets\\scripts\\controllers\\actions\\changeindicatorcoloraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F34442-117B-B418-5495-ABB341B89F58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\actions\\changeindicatorcoloraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Assets\\Input\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Input\\PlayerInputActions.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Assets\\Input\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\Input\\PlayerInputActions.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwE0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:07:35.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAH0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:17:03.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangeIndicatorColorAction.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Controllers\\Actions\\ChangeIndicatorColorAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Actions\\ChangeIndicatorColorAction.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Controllers\\Actions\\ChangeIndicatorColorAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Actions\\ChangeIndicatorColorAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:11:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogBook.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Game\\UI\\LogBook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\UI\\LogBook.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Game\\UI\\LogBook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\UI\\LogBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:59:28.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameFlowControl.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Controllers\\GameFlowControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GameFlowControl.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Controllers\\GameFlowControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GameFlowControl.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:50:40.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpriteGrid.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Game\\Grid\\SpriteGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Grid\\SpriteGrid.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Game\\Grid\\SpriteGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Grid\\SpriteGrid.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAhwE8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:09:55.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Development\\Sprite Grid\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:13:06.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

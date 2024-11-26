@@ -1,0 +1,56 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "6e10154c-d3d0-4804-9593-929b4b132b8a",
+            "actions": [
+                {
+                    "name": "DragAndMove",
+                    "type": "Value",
+                    "id": "e1a8de81-a62c-4b60-bda8-527e8f69a89f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "Hold",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "One Modifier",
+                    "id": "1770bca5-a857-41b9-a8c6-941e804c13b4",
+                    "path": "OneModifier",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DragAndMove",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "modifier",
+                    "id": "f1246416-2729-48a7-bd1a-5addc643c79a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DragAndMove",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "binding",
+                    "id": "40b02af2-fef9-457b-bfbf-64653720366f",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DragAndMove",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
